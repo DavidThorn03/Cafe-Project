@@ -1,0 +1,5 @@
+Latte, 4.50
+Cappuccino, 4.75
+Americano, 5.00
+Esp, 4.25
+Flat white, 4.00

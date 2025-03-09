@@ -1,0 +1,7 @@
+Student details:
+David Thornton
+B00152842
+Group 5
+
+Project aditional functionality:
+Transactions are written to file called "[day]-[month]-[year]" in a folder called "Transactions" instead of all going straight to a file called "Transactions" and transaction records only show time (not date).
